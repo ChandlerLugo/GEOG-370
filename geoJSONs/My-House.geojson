@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "My-House",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3, "Desc.": "My House" }, "geometry": { "type": "Point", "coordinates": [ -8799929.461606433615088, 4290161.916965978220105 ] } }
+]
+}
